@@ -34,6 +34,6 @@ summary(pressure)
 ```
 ```{r echo=FALSE}
 
-
+p<-ggplot(df,aes(x,y))
 ```
 
